@@ -32,16 +32,15 @@ I'm Praveen Devarajan, a [Computer Science/Public Policy](https://capp.uchicago.
 _Many repositories from school projects are private for academic integrity and intellectual property purposes. Code can be shared with prospective employers upon request._
 
 - Distributed System for Genomic Annotation Services using AWS Services(S3, Glacier, DynamoDB, State Machines, Lambda functions and SQS/SNS)
-- Lock-free task management system in Go, utilizing concurrent data structures (lock-free FIFO
-queue, RWLock) and atomic CAS operations 
-- Text to text Transfer Transformer model (T5),fine-tuned to summarize data
+- Lock-free task management system in Go, utilizing concurrent data structures (lock-free FIFO queue, RWLock) and atomic CAS operations
+- Parallelizing image convolutions using basic synchronization primitives
+- Text to text Transfer Transformer model (T5), fine-tuned to summarize data
+- Replicating the "Attention is all you need" architecture using PyTorch
 - Markov Models for Text Attribution
 - Web Scraping & Web Crawlers with lxml
-- CRUD app to handle tweets, link records, with SQLite and Flask 🪶
+- CRUD app to handle tweets, and link records, with SQLite and Flask 🪶
 - Record Linkage Algorithms
 - Analyzing Avian Diversity using Recursive Treemaps
-- Text to text Transfer Transformer
 - Polling Precinct Simulation using M/M/N Queues
 - Analyzing Political Tweets using NLP
-- Modeling Language Shifts using Moore Neighborhoods
 - Epidemic Simulation using the SIR Model
