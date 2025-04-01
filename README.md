@@ -9,7 +9,7 @@ I'm Praveen Devarajan, a [Computer Science/Public Policy](https://capp.uchicago.
 
 - I am currently working as a Data Scientist/Researcher with [UChicago Institute for Climate and Sustainable Growth](https://climate.uchicago.edu/) where I am helping develop ML products to help detect violations of the Clean Air Act. I also help understand the effect of Time-Of-Use pricing on consumer behaviour.
 
-- I worked as a Data Engineer with [Ballotpedia](https://ballotpedia.org/) where I built a pipeline to extract, clean and load data regarding local elections in the US.
+- I worked as a Data Engineer with [Ballotpedia](https://ballotpedia.org/) where I built a pipeline to extract, clean, and load data for more than 100,000 candidates contesting local elections in the US.
 
 - I also help build the back-end of a sustainablity-based startup called [Solom](https://solom.earth)
 
