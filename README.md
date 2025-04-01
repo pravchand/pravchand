@@ -13,10 +13,11 @@ I'm Praveen Devarajan, a [Computer Science/Public Policy](https://capp.uchicago.
 
 - I also help build the back-end of a sustainablity-based startup called [Solom](https://solom.earth)
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=00ADD8)
 ![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&color=276DC3)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
