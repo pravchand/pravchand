@@ -36,8 +36,8 @@ _Many repositories from school projects are private for academic integrity and i
 queue, RWLock) and atomic CAS operations 
 - Text to text Transfer Transformer model (T5),fine-tuned to summarize data
 - Markov Models for Text Attribution
-- Web Scraping & Web Crawlers with Spatula
-- Basic Web Search Backend from Linked and Created Database with SQLite and Flask 🪶
+- Web Scraping & Web Crawlers with lxml
+- CRUD app to handle tweets, link records, with SQLite and Flask 🪶
 - Record Linkage Algorithms
 - Analyzing Avian Diversity using Recursive Treemaps
 - Text to text Transfer Transformer
