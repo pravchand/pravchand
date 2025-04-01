@@ -7,11 +7,11 @@
 -->
 I'm Praveen Devarajan, a [Computer Science/Public Policy](https://capp.uchicago.edu/) grad student at the University of Chicago 🎓
 
-- I am currently working as a Data Scientist/Researcher with [UChicago Institute for Climate and Sustainable Growth](https://climate.uchicago.edu/) where I help develop ML products to detect violations of the Clean Air Act. I am also a DRW fellow, through which I assist in understanding the effect of Time-Of-Use pricing of electricity on consumer behavior.
+- I work as a Data Scientist/Researcher with [UChicago Institute for Climate and Sustainable Growth](https://climate.uchicago.edu/), where I help develop ML products to detect violations of the Clean Air Act. I am also a DRW fellow, through which I assist in understanding the effect of Time-Of-Use pricing of electricity on consumer behavior.
 
-- I worked as a Data Engineer with [Ballotpedia](https://ballotpedia.org/) where I built a pipeline to extract, clean, and load data for more than 100,000 candidates contesting local elections in the US.
+- I worked as a Data Engineer with [Ballotpedia](https://ballotpedia.org/), where I built a pipeline to extract, clean, and load data for more than 100,000 candidates contesting local elections in the US.
 
-- I also help build the backend of a sustainability-based startup called [Solom](https://solom.earth)
+- I also help build the backend of a sustainability-based startup called [Solom](https://solom.earth).
 
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
@@ -24,7 +24,7 @@ I'm Praveen Devarajan, a [Computer Science/Public Policy](https://capp.uchicago.
 ## Past Projects
 
 - [Web scraping and Tokenizing pipeline built using Go](https://github.com/pravchand/web_scraping_Go)
-- [Pipeline to extract,parse and classify Twitter users](https://github.com/Energy-Lab-Pollution/twitter_search)
+- [Pipeline to extract, parse and classify Twitter users](https://github.com/Energy-Lab-Pollution/twitter_search)
 - [Energy sector analysis of US](https://github.com/pravchand/energy_project)
 - [Belay, a slack-like messaging app](https://github.com/pravchand/belay)
 - [AI-based Job Application tracker(ongoing)](https://github.com/pravchand/drona)
