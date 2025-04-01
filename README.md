@@ -7,7 +7,7 @@
 -->
 I'm Praveen Devarajan, a [Computer Science/Public Policy](https://capp.uchicago.edu/) grad student at the University of Chicago 🎓
 
-- I am currently working as a Data Scientist/Researcher with [UChicago Institute for Climate and Sustainable Growth](https://climate.uchicago.edu/) where I help develop ML products to detect violations of the Clean Air Act. I am also a DRW fellow, through which I assist in understanding the effect of Time-Of-Use pricing on consumer behavior.
+- I am currently working as a Data Scientist/Researcher with [UChicago Institute for Climate and Sustainable Growth](https://climate.uchicago.edu/) where I help develop ML products to detect violations of the Clean Air Act. I am also a DRW fellow, through which I assist in understanding the effect of Time-Of-Use pricing of electricity on consumer behavior.
 
 - I worked as a Data Engineer with [Ballotpedia](https://ballotpedia.org/) where I built a pipeline to extract, clean, and load data for more than 100,000 candidates contesting local elections in the US.
 
