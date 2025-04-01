@@ -11,7 +11,7 @@ I'm Praveen Devarajan, a [Computer Science/Public Policy](https://capp.uchicago.
 
 - I worked as a Data Engineer with [Ballotpedia](https://ballotpedia.org/) where I built a pipeline to extract, clean, and load data for more than 100,000 candidates contesting local elections in the US.
 
-- I also help build the back-end of a sustainablity-based startup called [Solom](https://solom.earth)
+- I also help build the backend of a sustainability-based startup called [Solom](https://solom.earth)
 
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
