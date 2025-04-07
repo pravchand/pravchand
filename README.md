@@ -13,6 +13,7 @@ I'm Praveen Devarajan, a [Computer Science/Public Policy](https://capp.uchicago.
 
 - I also help build the backend of a sustainability-based startup called [Solom](https://solom.earth).
 
+I have been a volunteer teacher, a grassroots social worker during the pandemic, and a product manager helping build products for teaching children.
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=00ADD8)
