@@ -5,21 +5,28 @@
 
 
 -->
-I'm Praveen Devarajan, a [Computer Science/Public Policy](https://capp.uchicago.edu/) grad student at the University of Chicago 🎓
+I'm Praveen Devarajan, an engineer at [Macrocosm](https://macrocosm.group), where I work on energy markets, forecasting, and ML infrastructure.
 
-- I work as a Data Scientist/Research Engineer with [UChicago Institute for Climate and Sustainable Growth](https://climate.uchicago.edu/), where I help develop ML products to detect violations of the Clean Air Act. I am also a DRW fellow, through which I assist in understanding the [effect of Time-Of-Use pricing of electricity on consumer behavior](https://github.com/jessebu93/pge_tou).
+I hold a graduate degree in [Computer Science/Public Policy](https://capp.uchicago.edu/) from the University of Chicago 🎓
 
-- I worked as a Data Engineer with [Ballotpedia](https://ballotpedia.org/), where I built a pipeline to extract, clean, and load data for more than 100,000 candidates contesting local elections in the US.
+**Previously:**
 
-- I also help build the backend of a sustainability-based startup called [Solom](https://solom.earth).
+- I was a Data Scientist/Research Engineer with the [UChicago Institute for Climate and Sustainable Growth](https://climate.uchicago.edu/), where I helped develop ML products to detect violations of the Clean Air Act. As a DRW fellow, I also worked on understanding the [effect of Time-Of-Use pricing of electricity on consumer behavior](https://github.com/jessebu93/pge_tou).
+
+- I was a Data Engineer with [Ballotpedia](https://ballotpedia.org/), where I built a pipeline to extract, clean, and load data for more than 100,000 candidates contesting local elections in the US.
+
+- I helped build the backend of a sustainability-based startup called [Solom](https://solom.earth).
 
 I have been a volunteer teacher, a grassroots social worker during the pandemic, and a product manager helping build products for teaching children.
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&color=4169E1)
 ![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=00ADD8)
-![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&color=276DC3)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![dbt](https://img.shields.io/badge/Data-dbt-informational?style=flat&logo=dbt&color=FF694B)
+![BigQuery](https://img.shields.io/badge/Data-BigQuery-informational?style=flat&logo=googlebigquery&color=669DF6)
+![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&color=4285F4)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=2496ED)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
 ## Past Projects
@@ -28,7 +35,7 @@ I have been a volunteer teacher, a grassroots social worker during the pandemic,
 - [Pipeline to extract, parse and classify Twitter users](https://github.com/Energy-Lab-Pollution/twitter_search)
 - [Energy sector analysis of US](https://github.com/pravchand/energy_project)
 - [Belay, a slack-like messaging app](https://github.com/pravchand/belay)
-- [AI-based Job Application tracker(ongoing)](https://github.com/pravchand/drona)
+- [AI-based Job Application tracker](https://github.com/pravchand/drona)
  
 _Many repositories from school projects are private for academic integrity and intellectual property purposes. Code can be shared with prospective employers upon request._
 
