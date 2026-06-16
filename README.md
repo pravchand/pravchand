@@ -7,7 +7,7 @@
 -->
 I'm Praveen Devarajan, an engineer at [Macrocosm](https://macrocosm.group), where I work on energy markets, forecasting, and ML infrastructure.
 
-I hold a graduate degree in [Computer Science/Public Policy](https://capp.uchicago.edu/) from the University of Chicago 🎓
+I am a product of CAPP[Computer Science/Public Policy](https://capp.uchicago.edu/) from the University of Chicago 🎓
 
 **Previously:**
 
